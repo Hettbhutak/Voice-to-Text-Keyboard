@@ -240,23 +240,12 @@ This project demonstrated how to build a production-quality iOS keyboard extensi
 | Memory Limit    | ~30MB            |
 | Keyboard Height | 280pt            |
 
-## Code Repository
-
-**GitHub:** *[Add Repository Link]*
-Includes source code, README, demo video, and documentation.
 
 ## Acknowledgments
 
 * Groq Whisper API
 * Apple iOS Documentation
 * iOS Developer Community
-
----
-
-**Author:** Het Bhutak
-**Date:** January 2026
-**GitHub:** *[github.com/Hettbhutak]*
-**LinkedIn:** *[https://www.linkedin.com/in/het-bhutak-3101601ba/]*
 
 ---
 
